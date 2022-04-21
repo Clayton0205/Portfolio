@@ -5,48 +5,56 @@ margin: 0;
 padding: 0;
 }
 
+header
+{
+position: sticky;
+}
+
 ul
 {
 display: flex;
-justify-content: space-around;
-margin-top: 40px;
+justify-content: right;
+background-image: url(../images/Wood.jpg);
+width: 305px;
+margin: 20px;
 }
 
 li
 {
+padding: 4px;
+text-align: center;
 list-style: none;
 }
 
 a
 {
-color: rgb(50.2%,  0%, 12.5%);
+color: yellow;
 text-decoration: none;
 }
 
 a:link
 {
-color: ;
+color: aqua;
+}
+
+a:hover
+{
+color: aqua;
 }
 
 a:visited
 {
-background-color: ;
-}
-
-a:hover 
-{
-color: ;
-font-size: large;
+background-color: aqua;
 }
 
 a:active 
 {
-color: ;
+color: aqua;
 }
 
 a:focus 
 {
-color: ;
+color: aqua;
 }
 
 #landingpage 
@@ -58,10 +66,13 @@ display: flex;
 flex-direction: column;
 }
 
+
 #landingtext 
 {
 text-align: center;
 margin-top: 345px;
+color: yellow;
+background-color: rgb(33.33%, 20.39%, 16.86% )
 }
 
 main
@@ -69,3 +80,85 @@ main
 background-image: url(../images/Wood.jpg);
 }
 
+#Viego 
+{
+display: flex;
+justify-content: center;
+}
+
+#Booger
+{
+width: 200px;
+height: 300px;
+}
+
+#About
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow;
+text-decoration: underline;
+}
+
+#TheBout
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+
+#Resume
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow;
+text-decoration: underline;
+}
+
+#Resumelist
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+
+#Testi
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow;
+text-decoration: underline;
+}
+
+#TestiText
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+
+#BotCon
+{
+text-align: center;
+color: yellow
+}
+
+footer
+{
+background-color: rgb(33.33%, 20.39%, 16.86% );
+min-width: 100%;
+height: 100px;
+}
+
+/* Projects */
+
+#HolyMecha
+{
+background-image: url(../images/Wood.jpg);
+}
+
+#BackBoard
+{
+min-width: 100%;
+height: 100px;
+}
