@@ -17,6 +17,7 @@ justify-content: right;
 background-image: url(../images/Wood.jpg);
 width: 305px;
 margin: 20px;
+border: 2px solid rgb(33.33%, 20.39%, 16.86% );
 }
 
 li
@@ -107,7 +108,7 @@ background-color: rgb(33.33%, 20.39%, 16.86% );
 color: yellow
 }
 
-#Resume
+#CV
 {
 text-align: center;
 background-color: rgb(33.33%, 20.39%, 16.86% );
@@ -115,7 +116,45 @@ color: yellow;
 text-decoration: underline;
 }
 
-#Resumelist
+#CVED
+{
+text-align: center;
+text-decoration: underline;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow;
+}
+
+#CVEDLI
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+
+#CVEM
+{
+text-align: center;
+text-decoration: underline;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow;
+}
+
+#CVEMLI
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+
+#CVHOB
+{
+text-align: center;
+text-decoration: underline;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow;
+}
+
+#CVHOBLI
 {
 text-align: center;
 background-color: rgb(33.33%, 20.39%, 16.86% );
@@ -154,7 +193,7 @@ height: 100px;
 
 #HolyMecha
 {
-background-image: url(../images/Wood.jpg);
+background-color: rgb(33.33%, 20.39%, 16.86% );
 }
 
 #BackBoard
@@ -162,3 +201,66 @@ background-image: url(../images/Wood.jpg);
 min-width: 100%;
 height: 100px;
 }
+
+#PP
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+
+.Project
+{
+margin-left: 40px;
+}
+
+#Calc
+{
+width: 500px;
+height: 400px;
+}
+
+#TCalc
+{
+text-align: left;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow;
+margin-left: 40px;
+}
+
+#Holiday
+{
+width: 1000px;
+height: 550px;
+align-self: center;
+}
+
+#THol
+{
+text-align: left;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+margin-left: 40px;
+}
+
+#Nav
+{
+width: 1000px;
+height: 550px;
+}
+
+#TNav
+{
+text-align: left;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow;
+
+}
+
+
+
+
+
+
+
+
