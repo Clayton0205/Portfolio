@@ -11,7 +11,7 @@ position:sticky;
 top: 0;
 }
 
-ul
+#Navbar
 {
 display: flex;
 justify-content: right;
@@ -21,7 +21,7 @@ margin: 20px;
 border: 2px solid rgb(33.33%, 20.39%, 16.86% );
 }
 
-li
+.Navli
 {
 padding: 4px;
 text-align: center;
@@ -109,6 +109,52 @@ background-color: rgb(33.33%, 20.39%, 16.86% );
 color: yellow
 }
 
+#Skills
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow;
+text-decoration: underline;
+}
+
+#Skillslist
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+
+#Piece
+{
+text-align: center;
+text-decoration: underline;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+
+#One
+{
+text-align: center;
+text-decoration: underline;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+
+#Sofz
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+
+#Tez
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+    
+    
 #CV
 {
 text-align: center;
@@ -147,6 +193,13 @@ background-color: rgb(33.33%, 20.39%, 16.86% );
 color: yellow
 }
 
+#Breaker
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+
 #CVHOB
 {
 text-align: center;
@@ -170,7 +223,26 @@ color: yellow;
 text-decoration: underline;
 }
 
+#Bruce
+{
+display: flex;
+justify-content: center;
+}
+
+#TestImg
+{
+width: 200px;
+height: 300px;
+}
+
 #TestiText
+{
+text-align: center;
+background-color: rgb(33.33%, 20.39%, 16.86% );
+color: yellow
+}
+
+#Taste
 {
 text-align: center;
 background-color: rgb(33.33%, 20.39%, 16.86% );
